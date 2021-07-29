@@ -1,0 +1,2 @@
+# LiozCoreData
+CoreData
